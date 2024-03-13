@@ -1,0 +1,14 @@
+C:\Users\Public\Cholbe\Dot Net\ConsoleApplication\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Cholbe\Dot Net\ConsoleApplication\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\Public\Cholbe\Dot Net\ConsoleApplication\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.AssemblyInfo.cs
+C:\Users\Public\Cholbe\Dot Net\ConsoleApplication\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Public\Cholbe\Dot Net\ConsoleApplication\ConsoleApplication\bin\Debug\net8.0\ConsoleApplication.exe
+C:\Users\Public\Cholbe\Dot Net\ConsoleApplication\ConsoleApplication\bin\Debug\net8.0\ConsoleApplication.deps.json
+C:\Users\Public\Cholbe\Dot Net\ConsoleApplication\ConsoleApplication\bin\Debug\net8.0\ConsoleApplication.runtimeconfig.json
+C:\Users\Public\Cholbe\Dot Net\ConsoleApplication\ConsoleApplication\bin\Debug\net8.0\ConsoleApplication.dll
+C:\Users\Public\Cholbe\Dot Net\ConsoleApplication\ConsoleApplication\bin\Debug\net8.0\ConsoleApplication.pdb
+C:\Users\Public\Cholbe\Dot Net\ConsoleApplication\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.dll
+C:\Users\Public\Cholbe\Dot Net\ConsoleApplication\ConsoleApplication\obj\Debug\net8.0\refint\ConsoleApplication.dll
+C:\Users\Public\Cholbe\Dot Net\ConsoleApplication\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.pdb
+C:\Users\Public\Cholbe\Dot Net\ConsoleApplication\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.genruntimeconfig.cache
+C:\Users\Public\Cholbe\Dot Net\ConsoleApplication\ConsoleApplication\obj\Debug\net8.0\ref\ConsoleApplication.dll
